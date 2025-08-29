@@ -1,6 +1,5 @@
-a = 10
-b = 20
-print("a + b = ", a + b)
-print("a - b = ", a - b)
-print("a * b = ", a * b)
-print("a / b = ", a / b)
+a = 1
+b = 2
+c = 3
+if a < c and b < c:
+    print("True")
